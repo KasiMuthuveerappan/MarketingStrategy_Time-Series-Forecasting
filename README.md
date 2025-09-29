@@ -1,1 +1,1 @@
-# MarketingStrstegy_Time-Series-Forecasting
+# MarketingStrategy_Time-Series-Forecasting
