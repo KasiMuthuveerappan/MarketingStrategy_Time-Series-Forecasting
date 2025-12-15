@@ -1,6 +1,6 @@
 # Time-Series-Forecasting
 
-<h1 align='center'> <font color='grey'><font size=7>⏳💰MarketingStrategy <font color="orange"><b>AdEase</font> - Time Series Forcasting💰⏳</b></font> </font></h1>
+<h1 align='center'> <font color='grey'><font size=6>⏳💰MarketingStrategy <font color="orange"><b>AdEase</font> - Time Series Forcasting💰⏳</b></font> </font></h1>
 
   <kbd>
 
